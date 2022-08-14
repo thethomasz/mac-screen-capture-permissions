@@ -18,16 +18,16 @@
     "install": "prebuild-install || node install.js"
   },
   "dependencies": {
-    "electron-util": "^0.13.0",
+    "electron-util": "^0.17.2",
     "execa": "^2.0.4",
     "macos-version": "^5.2.1",
     "prebuild-install": "^6.0.0"
   },
   "devDependencies": {
-    "electron": "^7.1.0",
+    "electron": "^11.5.0",
     "node-abi": "^2.26.0",
     "prebuild": "^10.0.1",
-    "tsd": "^0.11.0",
+    "tsd": "^0.22.0",
     "xo": "^0.24.0"
   },
   "keywords": [
